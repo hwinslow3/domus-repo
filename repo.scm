@@ -1,8 +1,4 @@
 (repository
- (sibling
-  (name "Alex Shin's Snow Fort")
-  (url "https://snow-fort.org/s/repo.scm"))
-
  (package
    (version "0.0.1")
    (library
